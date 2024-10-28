@@ -1,0 +1,1 @@
+It's the server api for the quiz web app build with next js
